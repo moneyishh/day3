@@ -1,3 +1,5 @@
+https://moneyishh.github.io/day3.github.io/
+
 Day 3 - A Failure
 
 Tried to replicate https://www.netflix.com but it was a fail attempt.
