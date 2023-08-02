@@ -1,4 +1,4 @@
-https://moneyishh.github.io/day3/
+https://moneyishh.github.io/day3.github.io/
 
 Day 3 - A Failure
 
